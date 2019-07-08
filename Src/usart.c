@@ -41,7 +41,7 @@
 #include "usart.h"
 
 /* USER CODE BEGIN 0 */
-
+ //this is just a test
 /* USER CODE END 0 */
 
 UART_HandleTypeDef huart7;
