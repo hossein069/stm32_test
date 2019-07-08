@@ -56,7 +56,7 @@ HAL_StatusTypeDef state;
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
+//This is a simple comment
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
